@@ -89,17 +89,8 @@ excel-sales-dashboard/
 
 ---
 
-## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard inside the **screenshots** folder.
 
-Example:
-
-```
-screenshots/
-├── dashboard.png
-├── sales_trend.png
-└── product_analysis.png
 ```
 
 ---
